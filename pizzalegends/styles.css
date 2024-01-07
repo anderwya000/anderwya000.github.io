@@ -13,4 +13,5 @@ body {
     position: relative;
     width: 352px;
     height: 198px;
+    outline: 1px solid white;
 }
