@@ -10,6 +10,6 @@ class Sprite {
     }
 
     draw(ctx) {
-        
+        const x = 
     }
 }
